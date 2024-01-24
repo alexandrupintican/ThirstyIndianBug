@@ -6,7 +6,7 @@ This mod does not work with other other sound replacement mods for Hoarding Bugs
 
 ## Credits
 
-Inspired after the angry British bug mod and created by HoffmanTV
+Inspired after the angry British bug mod created by HoffmanTV
 
 - https://thunderstore.io/c/lethal-company/p/HoffmanTV/angry_british_bug/
 - 🌐 **Discord**: [HoffmanTV](https://discord.gg/NfPVWaQFBu)
